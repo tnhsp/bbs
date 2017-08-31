@@ -8,5 +8,6 @@ public class TestBss {
 		System.out.println("update by github2");
 		System.out.println("update by eclipse");
 		System.out.println("update by github3");
+		System.out.println("kkk");
 	}
 }
